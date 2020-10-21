@@ -1,2 +1,2 @@
-# C-test
+# git-test
 just for test
